@@ -15,4 +15,4 @@ Run the following in your terminal:
 ## Video example
 
 A video of the TDD workflow can be found
-[here](git@github.com:wvmitchell/pizza-order-tdd.git)
+[here](https://youtu.be/nICkXxcyPDQ)
